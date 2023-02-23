@@ -1,4 +1,4 @@
-#Hello, greetings to all friends :)
+Hello, greetings to all friends :)
 
 This tool is designed for hunters or bug hunters. The repository of this tool is updated every month and you can find better dorks.
 
